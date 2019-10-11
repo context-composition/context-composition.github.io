@@ -8,3 +8,9 @@ show_sidebar: false
 menubar: menu
 tabs: menu
 include: ['_2016_pages', '_2017_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+ 
+permalink: pretty
