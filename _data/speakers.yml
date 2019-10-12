@@ -1,0 +1,12 @@
+title: Invited Speakers
+items:
+  - name: Name Last
+    image: url
+    shortbio: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this. 
+  - name: Name 2
+    image: url2
+    shortbio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this. 
