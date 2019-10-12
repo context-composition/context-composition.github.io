@@ -37,9 +37,9 @@ navigation_header:
 - title: Home
   url: /
 - title: Schedule
-  url: /schedule
+  url: /#schedule
 - title: Speakers
-  url: /speakers/
+  url: /#speakers
 #- title: Categories
 #  url: /categories/
 #- title: Search
