@@ -33,7 +33,19 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
-
+navigation_header:
+- title: Home
+  url: /
+- title: Schedule
+  url: /schedule
+- title: Speakers
+  url: /speakers/
+#- title: Categories
+#  url: /categories/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
 
 show_sidebar: false
 menubar: menu
