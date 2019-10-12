@@ -1,10 +1,12 @@
-    <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
-        <div class="hero-body">
+    <section class="people">
+        <div class="people-body">
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for speaker in speakers.items %}
                     <div class="column is-4 has-text-centered">
-                        {{ speaker.name }} 
+                        {{ speaker.name }}
+                        {{ speaker.picture }}
+                        {{ speaker.bio }} 
                     </div>
                     {% endfor %}
                 </div>
