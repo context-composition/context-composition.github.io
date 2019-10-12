@@ -1,8 +1,8 @@
 markdown: kramdown
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 #remote_theme: daviddarnes/alembic
 #remote_theme: chrisrhymes/bulma-clean-theme
-remote_theme: BlackrockDigital/startbootstrap-agency
+#remote_theme: BlackrockDigital/startbootstrap-agency
 url: "context-composition.github.io" 
 title: Context and Compositionality in Biological and Artificial Neural Systems 
 description: NeurIPS 2019 Workshop
