@@ -1,6 +1,6 @@
 markdown: kramdown
-theme: jekyll-theme-cayman
-#remote_theme: daviddarnes/alembic
+#theme: jekyll-theme-cayman
+remote_theme: daviddarnes/alembic
 #remote_theme: chrisrhymes/bulma-clean-theme
 #remote_theme: BlackrockDigital/startbootstrap-agency
 url: "context-composition.github.io" 
