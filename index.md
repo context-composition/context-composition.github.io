@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Context and Compositionality in Biological and Artificial Neural Systems
+hide_footer: true
 ---
+
 ## Context and Compositionality in Biological and Artificial Neural Systems
 [NeurIPS 2019](https://neurips.cc) Workshop, Vancouver, Canada
 ##### December 14th, 2019
