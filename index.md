@@ -51,6 +51,8 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 
 ## Schedule
 
+{% include people.html name=speakers %}
+
 ## Invited Speakers
 
 - [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
@@ -123,6 +125,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 (Links to papers will be added soon!)
 
 ## Organizers
+{% image  %}
 
 - Javier Turek, Intel Labs
 - Alex Huth, The University of Texas at Austin
