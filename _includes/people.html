@@ -2,7 +2,11 @@
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-multiline is-centered">
-                Speakers
+                    {% for speaker in speakers.items %}
+                    <div class="column is-4 has-text-centered">
+                        {{ speaker.name }} 
+                    </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>           
