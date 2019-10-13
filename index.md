@@ -125,8 +125,6 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 (Links to papers will be added soon!)
 
 ## Organizers
-{% image  %}
-
 - Javier Turek, Intel Labs
 - Alex Huth, The University of Texas at Austin
 - Shailee Jain, The University of Texas at Austin
