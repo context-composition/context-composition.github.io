@@ -33,18 +33,6 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 {% include people.html name="organizers" %}
 
 
-## Organizers
-- Javier Turek, Intel Labs
-- Alex Huth, The University of Texas at Austin
-- Shailee Jain, The University of Texas at Austin
-- Chris Honey, Johns Hopkins University
-- Tal Linzen, Johns Hopkins University
-- Alan Yuille, Johns Hopkins University
-- Emma Strubell, Facebook and Carnegie Mellon University
-- Kyunghyun Cho, Facebook and New York University
-- Leila Wehbe, Carnegie Mellon University
-
-
 ## Schedule
 
 
