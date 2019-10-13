@@ -24,6 +24,7 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 |:------ |:------ 
 | Paper Submission Deadline | Update: **September 18th, 2019 (23:59 hours Anywhere on Earth)** ~~September 9th, 2019~~ 
 | Final Decisions | September 30th, 2019
+| Camera Ready | November 15th, 2019
 | Workshop Date | December 14th, 2019
 
 
