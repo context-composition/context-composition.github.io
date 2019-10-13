@@ -34,7 +34,8 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 
 
 ## Schedule
-
+The workshop will start 8:00am and is planned to finish by 6:00pm.
+The complete schedule will be published closer to the event date.
 
 ## Accepted Papers
 1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with
