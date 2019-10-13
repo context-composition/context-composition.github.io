@@ -51,7 +51,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 
 ## Schedule
 
-{% include people.html title="Invited Speakers" name=speakers %}
+{% include people.html title="Invited Speakers" name="speakers" %}
 
 ## Invited Speakers
 
