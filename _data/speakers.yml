@@ -2,15 +2,62 @@ title: Invited Speakers
 items:
   - name: Yoshua Bengio
     url: https://mila.quebec/en/yoshua-bengio/
-    affiliation: 
-    picture: url
+    affiliation: MILA - University of Montreal
+    picture: ""
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Patricia Churchland
-    url: ""
+    url: https://patriciachurchland.com
     affiliation: University of California San Diego
-    image: url2
-    shortbio: >
+    picture: ""
+    bio: >
       Thesss example description text goes here and can be multiple lines.
-      For example, such as this. 
+      For example, such as this.
+  - name: Liina Pylkkänen
+    url: https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/
+    affiliation: New York University
+    picture: ""
+    bio: ""
+  - name: Gina Kuperberg
+    url: https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg
+    affiliation: Tufts University and Massachusetts General Hospital
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Tom Mitchell
+    url: http://www.cs.cmu.edu/~tom/
+    affiliation: Carnegie Mellon University
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Evelina Fedorenko
+    url: https://evlab.mit.edu
+    affiliation: MIT
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Paul Smolensky
+    url: https://www.microsoft.com/en-us/research/people/psmo/
+    affiliation: Johns Hopkins University and Microsoft Research
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Gary Marcus
+    url: http://garymarcus.com
+    affiliation: New York University and Robust.AI
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Kenton Lee
+    url: https://kentonl.com
+    affiliation: Google
+    picture: ""
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.      
