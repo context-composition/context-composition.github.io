@@ -22,8 +22,8 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 |---
 | Name | Date 
 |:------ |:------ 
-| Paper Submission Deadline | Update: **September 18th, 2019 (23:59 hours Anywhere on Earth)** ~~September 9th, 2019~~ 
-| Final Decisions | September 30th, 2019
+| Paper Submission Deadline | ~~Update: **September 18th, 2019 (23:59 hours Anywhere on Earth)** Previous: September 9th, 2019~~ 
+| Final Decisions | ~~September 30th, 2019~~
 | Camera Ready | November 15th, 2019
 | Workshop Date | December 14th, 2019
 
@@ -35,10 +35,13 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 
 
 ## Schedule
+
 The workshop will start 8:00am and is planned to finish by 6:00pm.
 The complete schedule will be published closer to the event date.
 
+
 ## Accepted Papers
+
 1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with
     Recurrent Networks.      
     Dongqi Han, Kenji Doya, Jun Tani    
