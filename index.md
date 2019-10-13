@@ -27,7 +27,10 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 | Workshop Date | December 14th, 2019
 
 
-{% include people.html title="Invited Speakers" name="speakers" %}
+{% include people.html name="speakers" %}
+
+
+{% include people.html name="organizers" %}
 
 
 ## Organizers
