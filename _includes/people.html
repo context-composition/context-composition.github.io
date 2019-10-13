@@ -1,1 +1,20 @@
-  <h3> {{ include.title }} </h3>
+  <h2> {{ include.title }} </h2>
+  {% if include.name %}
+  {{ site.data.[include.name] }}
+  {% assign speakers=site.data.[include.name] %}
+  <section class="people">
+        <div class="people-body">
+            <div class="container">
+                <div class="columns is-multiline is-centered">
+                    {% for speaker in speakers.items %}
+                    <div class="column is-4 has-text-centered">
+                        {{ speaker.name }}
+                        {{ speaker.picture }}
+                        {{ speaker.bio }} 
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>    
+  </section>        
+  {% endif %}
