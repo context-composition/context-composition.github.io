@@ -1,11 +1,15 @@
 title: Invited Speakers
 items:
-  - name: Name Last
-    image: url
-    shortbio: >
+  - name: Yoshua Bengio
+    url: https://mila.quebec/en/yoshua-bengio/
+    affiliation: 
+    picture: url
+    bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Name 2
+  - name: Patricia Churchland
+    url: ""
+    affiliation: University of California San Diego
     image: url2
     shortbio: >
       Thesss example description text goes here and can be multiple lines.
