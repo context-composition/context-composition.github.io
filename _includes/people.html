@@ -8,8 +8,10 @@
                 <div class="columns is-multiline is-centered">
                     {% for speaker in speakers.items %}
                     <div class="column is-4 has-text-centered">
+                      <a href="{{ speaker.url }}"> 
+                        <img src="{{ speaker.picture }}" style="circle-image" />
                         {{ speaker.name }}
-                        {{ speaker.picture }}
+                      </a>
                         {{ speaker.bio }} 
                     </div>
                     {% endfor %}
