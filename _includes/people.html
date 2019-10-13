@@ -1,7 +1,6 @@
-  <h2> {{ include.title }} </h2>
   {% if include.name %}
-  {{ site.data.[include.name] }}
   {% assign speakers=site.data.[include.name] %}
+  <h2> {{ speakers.title }} </h2>
   <section class="people">
         <div class="people-body">
             <div class="container">
@@ -11,7 +10,7 @@
                       <a href="{{ speaker.url }}"> 
                         <img src="{{ speaker.picture }}" style="circle-image" />
                         {{ speaker.name }}
-                      </a>
+                      </a>, {{ speaker.affiliation }}
                         {{ speaker.bio }} 
                     </div>
                     {% endfor %}
