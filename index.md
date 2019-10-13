@@ -9,7 +9,7 @@ hide_footer: true
 ##### December 14th, 2019
 
 
-## Introduction
+## About
 The ability to integrate semantic information across narratives is fundamental to language understanding in both biological and artificial cognitive systems. In recent years, enormous strides have been made in NLP and Machine Learning to develop architectures and techniques that effectively capture these effects. The field has moved away from traditional bag-of-words approaches that ignore temporal ordering, and instead embraced RNNs [1][2][3][4], Temporal CNNs [5] and Transformers [6], which incorporate contextual information at varying timescales. While these architectures have lead to state-of-the-art performance on many difficult language understanding tasks [7],[8], it is unclear what representations these networks learn and how exactly they incorporate context. Interpreting these networks, systematically analyzing the advantages and disadvantages of different elements, such as gating or attention, and reflecting on the capacity of the networks across various timescales are open and important questions. 
 
 On the biological side, recent work in neuroscience suggests that areas in the brain are organized into a temporal hierarchy in which different areas are not only sensitive to specific semantic information [9] but also to the composition of information at different timescales [10][11]. Computational neuroscience has moved in the direction of leveraging deep learning to gain insights about the brain [12][13]. By answering questions on the underlying mechanisms and representational interpretability of these artificial networks, we can also expand our understanding of temporal hierarchies, memory, and capacity effects in the brain.  
@@ -26,30 +26,20 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 | Final Decisions | September 30th, 2019
 | Workshop Date | December 14th, 2019
 
-## Call for Papers
-Submit at: [https://cmt3.research.microsoft.com/CNTXTCOMP2019/](https://cmt3.research.microsoft.com/CNTXTCOMP2019/)
-
-We will consider the following (non-exhaustive) list of topics for contribution:
-- Contextual sequence processing in the human brain
-- Compositional representations in the human brain
-- Systematic generalization in deep learning
-- Compositionality in human intelligence
-- Compositionality in natural language
-- Understanding composition and temporal processing in neural network models
-- New approaches to compositionality and temporal processing in language
-- Hierarchical representations of temporal information
-- Datasets for contextual sequence processing
-- Applications of compositional neural networks to real-world problems
-
-**Formatting Instructions:**  All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed. You must format your submission using the [NeurIPS 2019 LaTeX style file](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles). Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. All submissions should be anonymous.
-
-Accepted papers will be presented during a poster session, with spotlight oral presentations for exceptional submissions. The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-
-The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
-Please redirect questions and all future correspondence to [shaileejain@utexas.edu](mailto:shaileejain@utexas.edu).
-
 
 {% include people.html title="Invited Speakers" name="speakers" %}
+
+
+## Organizers
+- Javier Turek, Intel Labs
+- Alex Huth, The University of Texas at Austin
+- Shailee Jain, The University of Texas at Austin
+- Chris Honey, Johns Hopkins University
+- Tal Linzen, Johns Hopkins University
+- Alan Yuille, Johns Hopkins University
+- Emma Strubell, Facebook and Carnegie Mellon University
+- Kyunghyun Cho, Facebook and New York University
+- Leila Wehbe, Carnegie Mellon University
 
 
 ## Schedule
@@ -114,16 +104,30 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 
 (Links to papers will be added soon!)
 
-## Organizers
-- Javier Turek, Intel Labs
-- Alex Huth, The University of Texas at Austin
-- Shailee Jain, The University of Texas at Austin
-- Chris Honey, Johns Hopkins University
-- Tal Linzen, Johns Hopkins University
-- Alan Yuille, Johns Hopkins University
-- Emma Strubell, Facebook and Carnegie Mellon University
-- Kyunghyun Cho, Facebook and New York University
-- Leila Wehbe, Carnegie Mellon University
+
+## Call for Papers
+
+Submit at: [https://cmt3.research.microsoft.com/CNTXTCOMP2019/](https://cmt3.research.microsoft.com/CNTXTCOMP2019/)
+
+We will consider the following (non-exhaustive) list of topics for contribution:
+- Contextual sequence processing in the human brain
+- Compositional representations in the human brain
+- Systematic generalization in deep learning
+- Compositionality in human intelligence
+- Compositionality in natural language
+- Understanding composition and temporal processing in neural network models
+- New approaches to compositionality and temporal processing in language
+- Hierarchical representations of temporal information
+- Datasets for contextual sequence processing
+- Applications of compositional neural networks to real-world problems
+
+**Formatting Instructions:**  All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed. You must format your submission using the [NeurIPS 2019 LaTeX style file](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles). Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. All submissions should be anonymous.
+
+Accepted papers will be presented during a poster session, with spotlight oral presentations for exceptional submissions. The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+
+The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+Please redirect questions and all future correspondence to [shaileejain@utexas.edu](mailto:shaileejain@utexas.edu).
+
 
 ## Program Committee
 
@@ -144,7 +148,9 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 - Srini Narayanan, Google AI Language
 - Vy Vo, Intel Labs
 
+
 ## Sponsors
+
 
 ## References
 1. S. Hochreiter and J. Schmidhuber. Long short-term memory. Neural Comput., 9(8):1735–1780, Nov. 1997.
