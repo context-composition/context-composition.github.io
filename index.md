@@ -49,21 +49,11 @@ The review process is double-blind. We also welcome published papers that are wi
 Please redirect questions and all future correspondence to [shaileejain@utexas.edu](mailto:shaileejain@utexas.edu).
 
 
-## Schedule
-
 {% include people.html title="Invited Speakers" name="speakers" %}
 
-## Invited Speakers
 
-- [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), MILA - University of Montreal
-- [Patricia Churchland](https://patriciachurchland.com/), University of California San Diego
-- [Liina Pylkkänen](https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/), New York University
-- [Gina Kuperberg](https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg), Tufts University and Massachusetts General Hospital
-- [Tom Mitchell](http://www.cs.cmu.edu/~tom/), Carnegie Mellon University
-- [Evelina Fedorenko](https://evlab.mit.edu), MIT
-- [Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/), Johns Hopkins University and Microsoft Research
-- [Gary Marcus](http://garymarcus.com), New York University and Robust.AI
-- [Kenton Lee](https://kentonl.com), Google
+## Schedule
+
 
 ## Accepted Papers
 1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with
