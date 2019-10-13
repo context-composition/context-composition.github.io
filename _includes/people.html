@@ -11,7 +11,9 @@
                         <img src="{{ speaker.picture }}" style="circle-image" />
                         {{ speaker.name }}
                       </a><br /> {{ speaker.affiliation }} <br />
+                      {% if speaker.bio %}
                        <!-- {{ speaker.bio }} -->
+                      {% endif %}
                     </div>
                     {% endfor %}
                 </div>
