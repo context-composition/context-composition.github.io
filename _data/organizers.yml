@@ -23,7 +23,7 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Chris Honey
-    url: ""
+    url: http://www.honeylab.org
     affiliation: Johns Hopkins University
     picture: ""
     bio: >
