@@ -44,7 +44,7 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Emma Strubell
-    url: ""
+    url: http://strubell.github.io
     affiliation: Facebook and Carnegie Mellon University
     picture: ""
     bio: >
