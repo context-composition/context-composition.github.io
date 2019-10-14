@@ -50,13 +50,6 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Emma Strubell
-    url: ""
-    affiliation: Facebook and Carnegie Mellon University
-    picture: ""
-    bio: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
   - name: Kyunghyun Cho
     url: http://www.kyunghyuncho.me
     affiliation: Facebook and New York University
