@@ -30,7 +30,7 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Tal Linzen
-    url: ""
+    url: http://tallinzen.net
     affiliation: Johns Hopkins University
     picture: ""
     bio: >
