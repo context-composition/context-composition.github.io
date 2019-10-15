@@ -58,7 +58,7 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Leila Wehbe
-    url: ""
+    url: http://www.cs.cmu.edu/~lwehbe/
     affiliation: Carnegie Mellon University
     picture: ""
     bio: >
