@@ -4,7 +4,7 @@ items:
   - name: Javier Turek
     url: http://www.javierturek.com
     affiliation: Intel Labs
-    picture: ""
+    picture: img/javierturek.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
@@ -25,14 +25,14 @@ items:
   - name: Chris Honey
     url: http://www.honeylab.org
     affiliation: Johns Hopkins University
-    picture: ""
+    picture: img/chrishoney.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Tal Linzen
     url: http://tallinzen.net
     affiliation: Johns Hopkins University
-    picture: ""
+    picture: img/tallinzen.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
@@ -46,21 +46,21 @@ items:
   - name: Emma Strubell
     url: http://strubell.github.io
     affiliation: Facebook and Carnegie Mellon University
-    picture: ""
+    picture: img/emmastrubell.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Kyunghyun Cho
     url: http://www.kyunghyuncho.me
     affiliation: Facebook and New York University
-    picture: ""
+    picture: img/kyunghyuncho.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Leila Wehbe
     url: http://www.cs.cmu.edu/~lwehbe/
     affiliation: Carnegie Mellon University
-    picture: ""
+    picture: img/leilawehbe.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
