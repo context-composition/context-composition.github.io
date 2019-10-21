@@ -58,9 +58,9 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Alan Yuille
-    url: ""
+    url: http://www.cs.jhu.edu/~ayuille/
     affiliation: Johns Hopkins University
-    picture: ""
+    picture: img/alanyuille.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
