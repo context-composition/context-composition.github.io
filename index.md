@@ -146,6 +146,7 @@ Please redirect questions and all future correspondence to [shaileejain@utexas.e
 
 
 ## Sponsors
+![Intel](img/intel.png)
 
 
 ## References
