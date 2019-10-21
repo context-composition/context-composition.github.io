@@ -36,17 +36,17 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Alan Yuille
-    url: ""
-    affiliation: Johns Hopkins University
-    picture: ""
-    bio: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
   - name: Emma Strubell
     url: http://strubell.github.io
     affiliation: Facebook and Carnegie Mellon University
     picture: img/emmastrubell.jpg
+    bio: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this. 
+  - name: Leila Wehbe
+    url: http://www.cs.cmu.edu/~lwehbe/
+    affiliation: Carnegie Mellon University
+    picture: img/leilawehbe.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
@@ -57,10 +57,10 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Leila Wehbe
-    url: http://www.cs.cmu.edu/~lwehbe/
-    affiliation: Carnegie Mellon University
-    picture: img/leilawehbe.jpg
+  - name: Alan Yuille
+    url: ""
+    affiliation: Johns Hopkins University
+    picture: ""
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
