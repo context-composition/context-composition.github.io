@@ -9,16 +9,16 @@ items:
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Alex Huth
-    url: ""
+    url: https://www.cs.utexas.edu/~huth/
     affiliation: The University of Texas at Austin
-    picture: ""
+    picture: img/alexhuth.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
   - name: Shailee Jain
-    url: ""
+    url: https://shaileejain.com
     affiliation: The University of Texas at Austin
-    picture: ""
+    picture: img/shaileejain.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
