@@ -46,7 +46,7 @@ The complete schedule will be published closer to the event date.
     Recurrent Networks.      
     Dongqi Han, Kenji Doya, Jun Tani    
 2.  Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion.  
-    Jonathan Mamou    
+    Jonathan Mamou, Oren Pereg, Moshe Wasserblat, Ido Dagan    
 3.  Learning Compositional Rules via Neural Program Synthesis.  
     Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake    
 4.  Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory.  
