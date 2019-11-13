@@ -122,6 +122,10 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 Accepted papers will be presented during a poster session, with spotlight oral presentations for exceptional submissions. The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
 
 The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+
+### Poster Instructions
+Posters should be no larger than 36W x 48H inches or 90 x 122 cm (portrait). Also, posters should be on light weight paper, not laminated. They will be taped to the wall with the special tabs that we will supply.
+
 Please redirect questions and all future correspondence to [shaileejain@utexas.edu](mailto:shaileejain@utexas.edu).
 
 
