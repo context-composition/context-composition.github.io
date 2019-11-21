@@ -42,7 +42,7 @@ The complete schedule will be published closer to the event date.
 
 ## Accepted Papers
 
-1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with Recurrent Networks. [PDF](https://arxiv.org/abs/1901.10113)     
+1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with Recurrent Networks. [[PDF]](https://arxiv.org/abs/1901.10113)     
     Dongqi Han, Kenji Doya, Jun Tani    
 2.  Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion.  
     Jonathan Mamou, Oren Pereg, Moshe Wasserblat, Ido Dagan    
