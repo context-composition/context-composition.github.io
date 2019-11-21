@@ -44,57 +44,54 @@ The complete schedule will be published closer to the event date.
 
 1.  Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with Recurrent Networks. [[PDF]](https://arxiv.org/abs/1901.10113)     
     Dongqi Han, Kenji Doya, Jun Tani    
-2.  Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion.  
+2.  Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion. [[PDF]](https://arxiv.org/abs/1904.02496)
     Jonathan Mamou, Oren Pereg, Moshe Wasserblat, Ido Dagan    
-3.  Learning Compositional Rules via Neural Program Synthesis.  
+3.  Learning Compositional Rules via Neural Program Synthesis. [[PDF]](https://maxwellnye.github.io/pdfs/RuleLearningCNTXTCOMP2019.pdf)
     Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake    
-4.  Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory.  
+4.  Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory. [[PDF]](https://www.biorxiv.org/content/10.1101/842302v1) 
     Robert Kim, Terry Sejnowski    
-5.  Localizing Occluders with Compositional Convolutional Networks.   
+5.  Localizing Occluders with Compositional Convolutional Networks. [[PDF]](https://arxiv.org/abs/1911.08571)   
     Adam Kortylewski, Qing Liu,  Huiyu Wang, Zhishuai Zhang, Alan Yuille    
-6.  Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER.  
+6.  Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER. [[PDF]](https://arxiv.org/abs/1910.02586) 
     Peng-Hsuan Li, Tsu-Jui Fu, Wei-yun Ma    
-7.  A crossover code for high-dimensional composition.  
+7.  A crossover code for high-dimensional composition. [[PDF]](https://arxiv.org/abs/1911.06775)  
     Rich Pang    
-8.  Radically Compositional Cognitive Concepts.  
+8.  Radically Compositional Cognitive Concepts. [[PDF]](https://arxiv.org/abs/1911.06602)  
     Toby St Clere Smithe    
-9.  A memory enhanced LSTM for modeling complex temporal dependencies.  
+9.  A memory enhanced LSTM for modeling complex temporal dependencies. [[PDF]](https://arxiv.org/abs/1910.12388)  
     Sneha Aenugu    
-10. Towards Generation of Visual Attention Map for Source Code.  
+10. Towards Generation of Visual Attention Map for Source Code. [[PDF]](https://arxiv.org/abs/1907.06182)  
     Takeshi D Itoh, Takatomi Kubo, Kiyoka Ikeda, Yuki Maruno, Yoshiharu Ikutani, Hideaki Hata, Kenichi 
     Matsumoto, Kazushi Ikeda    
-11. Long-Distance Dependencies don’t have to be Long: Simplifying through Provably (Approximately)
-    Optimal Permutations.      
+11. Long-Distance Dependencies don’t have to be Long: Simplifying through Provably (Approximately) Optimal Permutations. [[PDF]](https://www.aclweb.org/anthology/P19-2012/)     
     Rishi Bommasani    
-12. A representational asymmetry for composition in the human left-middle temporal gyrus.  
+12. A representational asymmetry for composition in the human left-middle temporal gyrus. [[PDF]](https://www.biorxiv.org/content/10.1101/844183v1) 
     Steven Frankland    
-13. Uncovering the compositional structure of vector representations with Role Learning Networks.  
+13. Uncovering the compositional structure of vector representations with Role Learning Networks.
     Paul Soulos, R. Thomas Mccoy, Tal Linzen, Paul Smolensky    
-14. Modelling the N400 brain potential as change in a probabilistic representation of meaning.  
+14. Modelling the N400 brain potential as change in a probabilistic representation of meaning.
     Milena Rabovsky, Steven Hansen, James McClelland    
-15. Interpreting and improving natural-language processing (in machines) with natural 
-    language-processing (in the brain).      
+15. Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain). [[PDF]](https://arxiv.org/abs/1905.11833)  
     Mariya Toneva, Leila Wehbe    
-16. Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving.  
+16. Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving. [[PDF]](https://drive.google.com/file/d/16Z8l3F8QqznQ9lMoxZ_1pzR684S-jO7I/view?usp=sharing)
     Imanol Schlag, Paul Smolensky, Roland Fernandez, Nebojsa Jojic, Jianfeng Gao    
-17. Inducing brain-relevant bias in natural language processing models.  
+17. Inducing brain-relevant bias in natural language processing models. [[PDF]](http://arxiv.org/abs/1911.03268)  
     Dan Schwartz , Mariya Toneva, Leila Wehbe    
-18. Sparse associative memory based on contextual code learning for disambiguating word senses.  
+18. Sparse associative memory based on contextual code learning for disambiguating word senses.
     Max Raphael Sobroza Marques, Tales Marra, Deok-Hee Dufor, Claude Berrou    
-19. Structured Sparsification of Gated Recurrent Neural Networks.  
+19. Structured Sparsification of Gated Recurrent Neural Networks. [[PDF]](https://arxiv.org/abs/1911.05585)
     Ekaterina Lobacheva, Nadezhda Chirkova, Aleksandr Markovich, Dmitry Vetrov    
-20. Compositionality as Directional Consistency in Sequential Neural Networks.  
+20. Compositionality as Directional Consistency in Sequential Neural Networks. [[PDF]](https://najoungkim.github.io/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf)  
     Najoung Kim, Tal Linzen    
 21. Modelling Working Memory using Deep Recurrent Reinforcement Learning.  
     Pravish Sainath, Pierre Bellec, Guillaume Lajoie    
-22. Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks.  
+22. Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks.
     Omar U Florez, Erik Muller    
-23. On Compositionality in Neural Machine Translation.  
+23. On Compositionality in Neural Machine Translation. [[PDF]]( https://arxiv.org/abs/1911.01497)
     Vikas Raunak, Vaibhav Kumar, Florian Metze, Jamie Callan    
-24. Learning to Control Latent Representations on an External Memory for Few-Shot Learning.  
+24. Learning to Control Latent Representations on an External Memory for Few-Shot Learning.
     Omar U Florez, Erik Muller
-24. Decoding Affirmative and Negated Action-Related Sentences in the Brain with Distributional
-    Semantic Models.     
+25. Decoding Affirmative and Negated Action-Related Sentences in the Brain with Distributional Semantic Models. [[PDF]](https://www.aclweb.org/anthology/P19-1508/)     
     Vesna Djokic
 
 ## Call for Papers
