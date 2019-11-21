@@ -67,7 +67,7 @@ The complete schedule will be published closer to the event date.
     Rishi Bommasani    
 12. A representational asymmetry for composition in the human left-middle temporal gyrus. [[PDF]](https://www.biorxiv.org/content/10.1101/844183v1) 
     Steven Frankland    
-13. Uncovering the compositional structure of vector representations with Role Learning Networks.
+13. Uncovering the compositional structure of vector representations with Role Learning Networks. [[PDF]](https://github.com/context-composition/context-composition.github.io/blob/master/camera_ready_papers/soulos_neurips_camera_ready.pdf)
     Paul Soulos, R. Thomas Mccoy, Tal Linzen, Paul Smolensky    
 14. Modelling the N400 brain potential as change in a probabilistic representation of meaning.
     Milena Rabovsky, Steven Hansen, James McClelland    
