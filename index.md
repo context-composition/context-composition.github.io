@@ -36,9 +36,24 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 
 ## Schedule
 
-The workshop will start 8:00am and is planned to finish by 6:00pm.
-The complete schedule will be published closer to the event date.
-
+|---
+| Time | Event 
+|:------ |:------ 
+|08:00 AM|	Opening Remarks 
+|08:15 AM|	Gina Kuperberg - 
+|09:00 AM|	Gary Marcus - 
+|09:45 AM|	Poster Session + Break (Poster Session)
+|10:30 AM|	Paul Soulos - Uncovering the compositional structure of vector representations with Role Learning Networks
+|10:40 AM|	Robert Kim - Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory
+|10:50 AM|	Maxwell Nye - Learning Compositional Rules via Neural Program Synthesis 
+|11:00 AM|	Tom Mitchell - Understanding Neural Processes: Getting Beyond Where and When, to How 
+|12:00 PM|	Poster Session + Lunch 
+|02:00 PM|	Yoshua Bengio - Towards compositional understanding of the world by agent-based deep learning 
+|03:00 PM|	Panel Presentation: Ev Fedorenko, Kenton Lee, Paul Smolensky
+|03:30 PM|	Break
+|04:00 PM|	Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky
+|05:30 PM|	Closing remarks
+|---
 
 ## Accepted Papers
 
