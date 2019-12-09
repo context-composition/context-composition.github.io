@@ -42,7 +42,7 @@ Room: West 217 - 219
 |09:00 AM | Gina Kuperberg - How probabilistic is language comprehension in the brain? Insights from multimodal neuroimaging studies
 |09:45 AM | Poster Session + Break
 |10:30 AM | Paul Soulos - Uncovering the compositional structure of vector representations with Role Learning Networks
-|10:40 AM | Robert Kim - Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory
+|10:40 AM | Robert Kim - Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory [[Slides]](https://composition.github.io/camera_ready_papers/RK_NeurIPS_workshop_spotlight.pdf)
 |10:50 AM | Maxwell Nye - Learning Compositional Rules via Neural Program Synthesis 
 |11:00 AM | Tom Mitchell - Understanding Neural Processes: Getting Beyond Where and When, to How 
 |12:00 PM | Poster Session + Lunch 
