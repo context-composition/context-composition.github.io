@@ -47,7 +47,7 @@ Room: West 217 - 219
 |11:00 AM | Tom Mitchell - Understanding Neural Processes: Getting Beyond Where and When, to How 
 |12:00 PM | Poster Session + Lunch 
 |02:00 PM | Yoshua Bengio - Towards compositional understanding of the world by agent-based deep learning 
-|03:00 PM | Panel Presentation: Ev Fedorenko, Kenton Lee, Paul Smolensky
+|03:00 PM | Ev Fedorenko 
 |03:30 PM | Break
 |04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky
 |05:30 PM | Closing remarks
