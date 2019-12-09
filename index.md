@@ -28,14 +28,9 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 | Workshop Date | December 14th, 2019
 
 
-{% include people.html name="speakers" %}
-
-
-{% include people.html name="organizers" %}
-
-
 ## Schedule
 
+Date: Saturday December 14th, 2019
 Room: West 217 - 219 
 
 |---
@@ -56,6 +51,13 @@ Room: West 217 - 219
 |04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky
 |05:30 PM | Closing remarks
 |---
+
+
+{% include people.html name="speakers" %}
+
+
+{% include people.html name="organizers" %}
+
 
 ## Accepted Papers
 
