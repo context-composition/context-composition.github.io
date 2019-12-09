@@ -11,18 +11,6 @@ items:
       Holder of the Canada Research Chair in Statistical Learning Algorithms, he is also the founder and scientific director of Mila, the Quebec Institute of AI--the world's biggest university-based research group in deep learning. 
       In 2019, he earned the prestigious Killam Prize from the Canada Council for the Arts. 
       Concerned about the social impact of AI, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence. 
-  - name: Patricia Churchland
-    url: https://patriciachurchland.com
-    affiliation: University of California San Diego
-    picture: img/churchland.jpg
-    bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
-  - name: Liina Pylkkänen
-    url: https://wp.nyu.edu/neurolinglab/people/liina-pylkkanen/
-    affiliation: New York University
-    picture: img/pylkkanen.jpg
-    bio: ""
   - name: Gina Kuperberg
     url: https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg
     affiliation: Tufts University and Massachusetts General Hospital
@@ -44,17 +32,17 @@ items:
     bio: >
       Thesss example description text goes here and can be multiple lines.
       For example, such as this.
-  - name: Paul Smolensky
-    url: https://www.microsoft.com/en-us/research/people/psmo/
-    affiliation: Johns Hopkins University and Microsoft Research
-    picture: img/smolensky.jpg
-    bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
   - name: Gary Marcus
     url: http://garymarcus.com
     affiliation: New York University and Robust.AI
     picture: img/marcus.jpg
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Paul Smolensky
+    url: https://www.microsoft.com/en-us/research/people/psmo/
+    affiliation: Johns Hopkins University and Microsoft Research
+    picture: img/smolensky.jpg
     bio: >
       Thesss example description text goes here and can be multiple lines.
       For example, such as this.
