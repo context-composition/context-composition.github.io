@@ -41,7 +41,7 @@ Room: West 217 - 219
 | Time | Event 
 |:------ |:------ 
 |08:00 AM|	Opening Remarks 
-|08:15 AM|	Gary Marcus - 
+|08:15 AM|	Gary Marcus - Deep Understanding: The Next Challenge for AI
 |09:00 AM|	Gina Kuperberg - How probabilistic is language comprehension in the brain? Insights from multimodal neuroimaging studies
 |09:45 AM|	Poster Session + Break (Poster Session)
 |10:30 AM|	Paul Soulos - Uncovering the compositional structure of vector representations with Role Learning Networks
