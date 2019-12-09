@@ -37,6 +37,7 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 ## Schedule
 
 Room: West 217 - 219 
+
 |---
 | Time | Event 
 |:------ |:------ 
