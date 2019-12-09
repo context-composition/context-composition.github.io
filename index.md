@@ -2,6 +2,7 @@
 layout: page
 title: Context and Compositionality in Biological and Artificial Neural Systems
 hide_footer: true
+hero_image: img/vancouver.jpg
 ---
 
 ## Context and Compositionality in Biological and Artificial Neural Systems
