@@ -49,7 +49,7 @@ Room: West 217 - 219
 |02:00 PM | Yoshua Bengio - Towards compositional understanding of the world by agent-based deep learning 
 |03:00 PM | Ev Fedorenko 
 |03:30 PM | Break
-|04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky
+|04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky [[Ask a Question!]](https://pigeonhole.at/CONTEXT2019)
 |05:30 PM | Closing remarks
 |---
 
