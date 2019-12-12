@@ -71,7 +71,7 @@ Room: West 217 - 219
     Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake
 4.  [Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory](https://www.biorxiv.org/content/10.1101/842302v1).
     Robert Kim, Terry Sejnowski
-5.  [Localizing Occluders with Compositional Convolutional Networks]](https://arxiv.org/abs/1911.08571).
+5.  [Localizing Occluders with Compositional Convolutional Networks](https://arxiv.org/abs/1911.08571).
     Adam Kortylewski, Qing Liu, Huiyu Wang, Zhishuai Zhang, Alan Yuille
 6.  [Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER](https://arxiv.org/abs/1910.02586).
     Peng-Hsuan Li, Tsu-Jui Fu, Wei-yun Ma
