@@ -23,15 +23,32 @@ items:
     affiliation: Carnegie Mellon University
     picture: img/mitchell.jpg
     bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
+      Tom M. Mitchell is the Founders University Professor at Carnegie Mellon University, where he founded the world's first Machine Learning Department.  
+      His research involves machine learning approaches to natural language understanding, and uses brain imaging to study 
+      how the human brain understands language.  He believes conversational machine learning will be the most significant 
+      new thrust in machine learning over the coming decade.  Mitchell is a member of the U.S. National Academy of Engineering, 
+      a member of the American Academy of Arts and Sciences, and a Fellow and Past President of the Association for the Advancement of Artificial Intelligence (AAAI).  
+      He is interested in societal impacts of computer science, recently co-chaired a U.S. National Academies study on 
+      “Information Technology, Automation, and the Workforce,” and has recently testified to several Congressional 
+      forums on the impacts of AI on society.
   - name: Evelina Fedorenko
     url: https://evlab.mit.edu
     affiliation: MIT
     picture: img/fedorenko.jpg
     bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
+      Ev Fedorenko is a cognitive neuroscientist who specializes in the study of the human language system. 
+      She received her Bachelor’s degree in Psychology and Linguistics from Harvard University in 2002. 
+      She then proceeded to pursue graduate studies in cognitive science and neuroscience at MIT. 
+      After receiving her Ph.D. in 2007, she was awarded a K99R00 career development award from NICHD 
+      and stayed on as a postdoctoral researcher and then a research scientist at MIT. 
+      In 2014, she joined the faculty at HMS/MGH, and in 2019 she moved back to MIT joining the faculty 
+      in the Brain and Cognitive Sciences Department and the McGovern Institute for Brain Research. 
+      Fedorenko aims to understand the computations we perform and the representations we build during 
+      language processing, and to provide a detailed characterization of the brain regions underlying 
+      these computations and representations. She uses an array of methods, including fMRI, ERPs, MEG, 
+      intracranial recordings and stimulation, and tools from Natural Language Processing, and works 
+      with diverse populations, including healthy adults and children, as well as individuals with 
+      developmental and acquired brain disorders.
   - name: Gary Marcus
     url: http://garymarcus.com
     affiliation: New York University and Robust.AI
