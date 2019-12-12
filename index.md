@@ -63,56 +63,56 @@ Room: West 217 - 219
 
 ## Accepted Papers
 
-1.  [Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with Recurrent Networks](https://arxiv.org/abs/1901.10113).
+1.  [Self-Organization of Action Hierarchy and Compositionality by Reinforcement Learning with Recurrent Networks](https://arxiv.org/abs/1901.10113).  
     Dongqi Han, Kenji Doya, Jun Tani
-2.  [Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion](https://arxiv.org/abs/1904.02496).
+2.  [Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion](https://arxiv.org/abs/1904.02496).  
     Jonathan Mamou, Oren Pereg, Moshe Wasserblat, Ido Dagan
-3.  [Learning Compositional Rules via Neural Program Synthesis](camera_ready_papers/RuleLearningCNTXTCOMP2019.pdf).
+3.  [Learning Compositional Rules via Neural Program Synthesis](camera_ready_papers/RuleLearningCNTXTCOMP2019.pdf).  
     Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake
-4.  [Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory](https://www.biorxiv.org/content/10.1101/842302v1).
+4.  [Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory](https://www.biorxiv.org/content/10.1101/842302v1).  
     Robert Kim, Terry Sejnowski
-5.  [Localizing Occluders with Compositional Convolutional Networks](https://arxiv.org/abs/1911.08571).
+5.  [Localizing Occluders with Compositional Convolutional Networks](https://arxiv.org/abs/1911.08571).  
     Adam Kortylewski, Qing Liu, Huiyu Wang, Zhishuai Zhang, Alan Yuille
-6.  [Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER](https://arxiv.org/abs/1910.02586).
+6.  [Why Attention? Analyzing and Remedying BiLSTM Deficiency in Modeling Cross-Context for NER](https://arxiv.org/abs/1910.02586).  
     Peng-Hsuan Li, Tsu-Jui Fu, Wei-yun Ma
-7.  [A crossover code for high-dimensional composition](https://arxiv.org/abs/1911.06775).
+7.  [A crossover code for high-dimensional composition](https://arxiv.org/abs/1911.06775).  
     Rich Pang
-8.  [Radically Compositional Cognitive Concepts](https://arxiv.org/abs/1911.06602).
+8.  [Radically Compositional Cognitive Concepts](https://arxiv.org/abs/1911.06602).  
     Toby St Clere Smithe
-9.  [A memory enhanced LSTM for modeling complex temporal dependencies](https://arxiv.org/abs/1910.12388).
+9.  [A memory enhanced LSTM for modeling complex temporal dependencies](https://arxiv.org/abs/1910.12388).  
     Sneha Aenugu
-10. [Towards Generation of Visual Attention Map for Source Code](https://arxiv.org/abs/1907.06182).
+10. [Towards Generation of Visual Attention Map for Source Code](https://arxiv.org/abs/1907.06182).  
     Takeshi D Itoh, Takatomi Kubo, Kiyoka Ikeda, Yuki Maruno, Yoshiharu Ikutani, Hideaki Hata, Kenichi
     Matsumoto, Kazushi Ikeda
-11. [Long-Distance Dependencies don’t have to be Long: Simplifying through Provably (Approximately) Optimal Permutations](https://www.aclweb.org/anthology/P19-2012/).
+11. [Long-Distance Dependencies don’t have to be Long: Simplifying through Provably (Approximately) Optimal Permutations](https://www.aclweb.org/anthology/P19-2012/).  
     Rishi Bommasani
-12. [A representational asymmetry for composition in the human left-middle temporal gyrus](https://www.biorxiv.org/content/10.1101/844183v1).
+12. [A representational asymmetry for composition in the human left-middle temporal gyrus](https://www.biorxiv.org/content/10.1101/844183v1).  
     Steven Frankland
-13. [Uncovering the compositional structure of vector representations with Role Learning Networks](camera_ready_papers/soulos_neurips_camera_ready.pdf).
+13. [Uncovering the compositional structure of vector representations with Role Learning Networks](camera_ready_papers/soulos_neurips_camera_ready.pdf).  
     Paul Soulos, R. Thomas Mccoy, Tal Linzen, Paul Smolensky
-14. [Modelling the N400 brain potential as change in a probabilistic representation of meaning](https://rdcu.be/6AM9).
+14. [Modelling the N400 brain potential as change in a probabilistic representation of meaning](https://rdcu.be/6AM9).  
     Milena Rabovsky, Steven Hansen, James McClelland
-15. [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/abs/1905.11833).
+15. [Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/abs/1905.11833).  
     Mariya Toneva, Leila Wehbe
-16. [Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving](camera_ready_papers/NeurIPS_2019_TP-Tranformer.pdf).
+16. [Enhancing the Transformer with Explicit Relational Encoding for Math Problem Solving](camera_ready_papers/NeurIPS_2019_TP-Tranformer.pdf).  
     Imanol Schlag, Paul Smolensky, Roland Fernandez, Nebojsa Jojic, Jianfeng Gao
-17. [Inducing brain-relevant bias in natural language processing models](http://arxiv.org/abs/1911.03268)
+17. [Inducing brain-relevant bias in natural language processing models](http://arxiv.org/abs/1911.03268).  
     Dan Schwartz , Mariya Toneva, Leila Wehbe
-18. [Sparse associative memory based on contextual code learning for disambiguating word senses](https://arxiv.org/abs/1911.06415).
+18. [Sparse associative memory based on contextual code learning for disambiguating word senses](https://arxiv.org/abs/1911.06415).  
     Max Raphael Sobroza Marques, Tales Marra, Deok-Hee Dufor, Claude Berrou
-19. [Structured Sparsification of Gated Recurrent Neural Networks](https://arxiv.org/abs/1911.05585).
+19. [Structured Sparsification of Gated Recurrent Neural Networks](https://arxiv.org/abs/1911.05585).  
     Ekaterina Lobacheva, Nadezhda Chirkova, Aleksandr Markovich, Dmitry Vetrov
-20. [Compositionality as Directional Consistency in Sequential Neural Networks](camera_ready_papers/Kim_Linzen_NeurIPS_workshop_camready.pdf)  .
+20. [Compositionality as Directional Consistency in Sequential Neural Networks](camera_ready_papers/Kim_Linzen_NeurIPS_workshop_camready.pdf).  
     Najoung Kim, Tal Linzen
-21. [Modelling Working Memory using Deep Recurrent Reinforcement Learning](camera_ready_papers/Modelling-WM-Final.pdf).
+21. [Modelling Working Memory using Deep Recurrent Reinforcement Learning](camera_ready_papers/Modelling-WM-Final.pdf).  
     Pravish Sainath, Pierre Bellec, Guillaume Lajoie
-22. [Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks](https://arxiv.org/abs/1911.08522).
+22. [Aging Memories Generate More Fluent Dialogue Responses with Memory Augmented Neural Networks](https://arxiv.org/abs/1911.08522).  
     Omar U Florez, Erik Muller
-23. [On Compositionality in Neural Machine Translation](https://arxiv.org/abs/1911.01497).
+23. [On Compositionality in Neural Machine Translation](https://arxiv.org/abs/1911.01497).  
     Vikas Raunak, Vaibhav Kumar, Florian Metze, Jamie Callan
-24. [Learning to Control Latent Representations on an External Memory for Few-Shot Learning](https://arxiv.org/abs/1911.08542).
+24. [Learning to Control Latent Representations on an External Memory for Few-Shot Learning](https://arxiv.org/abs/1911.08542).  
     Omar U Florez, Erik Muller
-25. [Decoding Affirmative and Negated Action-Related Sentences in the Brain with Distributional Semantic Models](https://www.aclweb.org/anthology/P19-1508/).
+25. [Decoding Affirmative and Negated Action-Related Sentences in the Brain with Distributional Semantic Models](https://www.aclweb.org/anthology/P19-1508/).  
     Vesna Djokic
 
 ## Call for Papers
