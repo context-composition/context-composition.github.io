@@ -32,6 +32,7 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 ## Schedule
 
 Date: Saturday December 14th, 2019
+
 Room: West 217 - 219 
 
 |---
