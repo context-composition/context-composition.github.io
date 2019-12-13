@@ -54,8 +54,15 @@ items:
     affiliation: New York University and Robust.AI
     picture: img/marcus.jpg
     bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
+      Gary Marcus is a scientist, best-selling author, and entrepreneur. He is Founder and CEO of Robust.AI, 
+      and was Founder and CEO of Geometric Intelligence, a machine learning company acquired by Uber in 2016. 
+      His work on infant rule learning and children's overregularizations have been central in debates about 
+      computational models of human cognition for nearly three decades. 
+      He is also the author of five books, including The Algebraic Mind, Kluge, The Birth of the Mind, and 
+      The New York Times best seller Guitar Zero, as well as his latest, co-authored with Ernest Davis, 
+      Rebooting AI: Building Machines We Can Trust.  And you can catch him again on December 23 
+      at his upcoming debate with Yoshua Bengio. 
+      Today is the world debut of his new benchmark.
   - name: Paul Smolensky
     url: https://www.microsoft.com/en-us/research/people/psmo/
     affiliation: Johns Hopkins University and Microsoft Research
