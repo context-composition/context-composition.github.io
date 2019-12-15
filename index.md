@@ -9,6 +9,8 @@ hero_image: img/vancouver_small.jpg
 [NeurIPS 2019](https://neurips.cc) Workshop, Vancouver, Canada
 ##### December 14th, 2019
 
+## Google Group
+[https://groups.google.com/d/forum/context-comp](https://groups.google.com/d/forum/context-comp)
 
 ## About
 The ability to integrate semantic information across narratives is fundamental to language understanding in both biological and artificial cognitive systems. In recent years, enormous strides have been made in NLP and Machine Learning to develop architectures and techniques that effectively capture these effects. The field has moved away from traditional bag-of-words approaches that ignore temporal ordering, and instead embraced RNNs [1][2][3][4], Temporal CNNs [5] and Transformers [6], which incorporate contextual information at varying timescales. While these architectures have lead to state-of-the-art performance on many difficult language understanding tasks [7],[8], it is unclear what representations these networks learn and how exactly they incorporate context. Interpreting these networks, systematically analyzing the advantages and disadvantages of different elements, such as gating or attention, and reflecting on the capacity of the networks across various timescales are open and important questions.
