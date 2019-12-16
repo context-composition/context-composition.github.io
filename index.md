@@ -12,6 +12,15 @@ hero_image: img/vancouver_small.jpg
 ## Google Group
 [https://groups.google.com/d/forum/context-comp](https://groups.google.com/d/forum/context-comp)
 
+## Videos
+
+1. [Gary Marcus - Deep _Understanding_: The Next Challenge for AI](https://slideslive.com/38922078/context-and-compositionality-in-biological-and-artificial-neural-systems-1) (starts at 9:55)
+2. [Gina Kuperberg - How probabilistic is language prediction in the brain? Insights from multimodal neuroimaging studies](https://slideslive.com/38922078/context-and-compositionality-in-biological-and-artificial-neural-systems-1) (starts at 54:36)
+3. [Spotlight talks](https://slideslive.com/38922079/context-and-compositionality-in-biological-and-artificial-neural-systems-2), incl. Paul Soulos - Discovering the Compositional Structure of Vector Representations with Role Learning Networks (starts at 0:00), Robert Kim - Recurrent Neural Networks as a Model to Probe Neuronal Timescales Specific to Working Memory (starts at 11:06), & Maxwell Nye - Learning Compositional Rules via Neural Program Synthesis (starts at 20:32)
+4. [Yoshua Bengio - Towards compositional understanding of the world by agent-based deep learning](https://slideslive.com/38922080/context-and-compositionality-in-biological-and-artificial-neural-systems-3)
+5. [Ev Fedorenko - Compositional language understanding in the human brain](https://slideslive.com/38922130/context-and-compositionality-in-biological-and-artificial-neural-systems-4)
+6. [Panel discussion](https://slideslive.com/38922081/context-and-compositionality-in-biological-and-artificial-neural-systems-5) incl. Paul Smolensky, Ev Fedorenko, Jacob Andreas, Kenton Lee, Gary Marcus, Yoshua Bengio, & Gina Kuperberg (chaired by Ted Willke)
+
 ## About
 The ability to integrate semantic information across narratives is fundamental to language understanding in both biological and artificial cognitive systems. In recent years, enormous strides have been made in NLP and Machine Learning to develop architectures and techniques that effectively capture these effects. The field has moved away from traditional bag-of-words approaches that ignore temporal ordering, and instead embraced RNNs [1][2][3][4], Temporal CNNs [5] and Transformers [6], which incorporate contextual information at varying timescales. While these architectures have lead to state-of-the-art performance on many difficult language understanding tasks [7],[8], it is unclear what representations these networks learn and how exactly they incorporate context. Interpreting these networks, systematically analyzing the advantages and disadvantages of different elements, such as gating or attention, and reflecting on the capacity of the networks across various timescales are open and important questions.
 
@@ -28,7 +37,7 @@ In this workshop we aim to bring together researchers from machine learning, NLP
 | Paper Submission Deadline | ~~Update: **September 18th, 2019 (23:59 hours Anywhere on Earth)** Previous: September 9th, 2019~~
 | Final Decisions | ~~September 30th, 2019~~
 | Camera Ready | ~~November 15th, 2019~~
-| Workshop Date | December 14th, 2019
+| Workshop Date | ~~December 14th, 2019~~
 
 
 ## Schedule
