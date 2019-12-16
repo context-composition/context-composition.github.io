@@ -18,7 +18,7 @@ hero_image: img/vancouver_small.jpg
 2. [Gina Kuperberg - How probabilistic is language prediction in the brain? Insights from multimodal neuroimaging studies](https://slideslive.com/38922078/context-and-compositionality-in-biological-and-artificial-neural-systems-1) (starts at 54:36)
 3. [Spotlight talks](https://slideslive.com/38922079/context-and-compositionality-in-biological-and-artificial-neural-systems-2), incl. Paul Soulos - Discovering the Compositional Structure of Vector Representations with Role Learning Networks (starts at 0:00), Robert Kim - Recurrent Neural Networks as a Model to Probe Neuronal Timescales Specific to Working Memory (starts at 11:06), & Maxwell Nye - Learning Compositional Rules via Neural Program Synthesis (starts at 20:32)
 4. [Yoshua Bengio - Towards compositional understanding of the world by agent-based deep learning](https://slideslive.com/38922080/context-and-compositionality-in-biological-and-artificial-neural-systems-3)
-5. [Ev Fedorenko - Compositional language understanding in the human brain](https://slideslive.com/38922130/context-and-compositionality-in-biological-and-artificial-neural-systems-4)
+5. [Ev Fedorenko - Composition as the Core Driver of the Human Language System](https://slideslive.com/38922130/context-and-compositionality-in-biological-and-artificial-neural-systems-4)
 6. [Panel discussion](https://slideslive.com/38922081/context-and-compositionality-in-biological-and-artificial-neural-systems-5) incl. Paul Smolensky, Ev Fedorenko, Jacob Andreas, Kenton Lee, Gary Marcus, Yoshua Bengio, & Gina Kuperberg (chaired by Ted Willke)
 
 ## About
