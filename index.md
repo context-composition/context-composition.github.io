@@ -51,15 +51,15 @@ Room: West 217 - 219
 | Time | Event
 |:------ |:------
 |08:00 AM | Opening Remarks
-|08:15 AM | Gary Marcus - Deep Understanding: The Next Challenge for AI
-|09:00 AM | Gina Kuperberg - How Probabilistic is Language Comprehension in the Brain? Insights from Multimodal Neuroimaging Studies
+|08:15 AM | Gary Marcus - Deep Understanding: The Next Challenge for AI [[Slides]](https://context-composition.github.io/camera_ready_papers/Marcus-NEURIPS 2019.pdf)
+|09:00 AM | Gina Kuperberg - How Probabilistic is Language Comprehension in the Brain? Insights from Multimodal Neuroimaging Studies [[Slides]](https://context-composition.github.io/camera_ready_papers/Kuperberg_NeurIPS_Vancouver_Dec2019.pdf)
 |09:45 AM | Poster Session + Break
 |10:30 AM | Paul Soulos - Uncovering the Compositional Structure of Vector Representations with Role Learning Networks [[Slides]](https://context-composition.github.io/camera_ready_papers/paul_soulos_talk.pdf)
 |10:40 AM | Robert Kim - Spiking Recurrent Networks as a Model to Probe Neuronal Timescales Specific to Working Memory [[Slides]](https://context-composition.github.io/camera_ready_papers/RK_NeurIPS_workshop_spotlight.pdf)
 |10:50 AM | Maxwell Nye - Learning Compositional Rules via Neural Program Synthesis [[Slides]](https://docs.google.com/presentation/d/18LtH8SZ0ysY_nsarJlFjbKFONjc7p6BhRjIxNZTShws/edit#slide=id.g6407caa500_0_453)
-|11:00 AM | Tom Mitchell - Understanding Neural Processes: Getting Beyond Where and When, to How
+|11:00 AM | Tom Mitchell - Understanding Neural Processes: Getting Beyond Where and When, to How [[Slides]](https://context-composition.github.io/camera_ready_papers/Mitchell-Brain-Dec2019-FINAL.pdf)
 |12:00 PM | Poster Session + Lunch
-|02:00 PM | Yoshua Bengio - Towards Compositional Understanding of the World by Agent-Based Deep Learning
+|02:00 PM | Yoshua Bengio - Towards Compositional Understanding of the World by Agent-Based Deep Learning [[Slides]](https://context-composition.github.io/camera_ready_papers/Bengio-CompositionalityWkshpNIPS-14dec2019.pdf)
 |03:00 PM | Ev Fedorenko - Composition as the Core Driver of the Human Language System
 |03:30 PM | Break
 |04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky, Jacob Andreas [[Ask a Question!]](https://pigeonhole.at/CONTEXT2019)
