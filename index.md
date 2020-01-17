@@ -62,7 +62,7 @@ Room: West 217 - 219
 |02:00 PM | Yoshua Bengio - Towards Compositional Understanding of the World by Agent-Based Deep Learning [[Slides]](https://context-composition.github.io/camera_ready_papers/Bengio-CompositionalityWkshpNIPS-14dec2019.pdf)
 |03:00 PM | Ev Fedorenko - Composition as the Core Driver of the Human Language System
 |03:30 PM | Break
-|04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky, Jacob Andreas [[Ask a Question!]](https://pigeonhole.at/CONTEXT2019)
+|04:00 PM | Panel Discussion: Ev Fedorenko, Kenton Lee, Paul Smolensky [[Slides]](https://context-composition.github.io/camera_ready_papers/Paul_smolensky_slides.pdf), Jacob Andreas [[Ask a Question!]](https://pigeonhole.at/CONTEXT2019)
 |05:30 PM | Closing remarks
 |---
 
